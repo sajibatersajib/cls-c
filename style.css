@@ -1,0 +1,24 @@
+body {
+    background-color: skyblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    background-color:rgb(255, 0, 0);
+  }
+  
+  p {
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .center{
+    font-size: 150%;
+    background-color:rgb(238, 130, 238);
+  }
+  .center-large{
+    background-color:rgb(255, 0, 221);
+    font: size 250px;
+    opacity: 0.6;
+  }
